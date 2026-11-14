@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "lamplight:wooden_scythe",
+    "lamplight:stone_scythe",
+    "lamplight:copper_scythe",
+    "lamplight:iron_scythe",
+    "lamplight:golden_scythe",
+    "lamplight:diamond_scythe",
+    "lamplight:netherite_scythe",
+    "lamplight:wooden_greatsword",
+    "lamplight:stone_greatsword",
+    "lamplight:copper_greatsword",
+    "lamplight:iron_greatsword",
+    "lamplight:golden_greatsword",
+    "lamplight:diamond_greatsword",
+    "lamplight:netherite_greatsword",
+    "lamplight:wooden_rapier",
+    "lamplight:stone_rapier",
+    "lamplight:copper_rapier",
+    "lamplight:iron_rapier",
+    "lamplight:golden_rapier",
+    "lamplight:diamond_rapier",
+    "lamplight:netherite_rapier"
+  ]
+}

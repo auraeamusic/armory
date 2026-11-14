@@ -1,0 +1,30 @@
+{
+  "required": true,
+  "package": "com.aura.armory.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "AbstractContainerMenuInvoker",
+    "InventoryMenuMixin",
+    "InventoryMixin",
+    "ItemStackDualWieldedTooltipMixin",
+    "ItemStackTwoHandedTooltipMixin",
+    "LivingEntityDaggerMixin",
+    "LivingEntityDualWieldDropMixin",
+    "LivingEntityTridentShieldDisableMixin",
+    "LivingEntityTwoHandedMixin",
+    "PlayerBackSlotDropMixin",
+    "PlayerDaggerMixin",
+    "PlayerDualWieldMixin",
+    "PlayerRapierMixin",
+    "ServerGamePacketListenerMixin",
+    "SlotDualWieldMixin",
+    "SlotTwoHandedMixin",
+    "TwoHandedProjectileMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+	}
+}
